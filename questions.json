@@ -1,6 +1,18 @@
 {
   "App": "School",
-  "Questions": [
-  
+  "Exams": [
+    {
+      "Id": "Exam1"
+      "Title": "Exam 1",
+      "Description": "محتوى"
+      "Questions": [
+        {
+          "Description": "Select an answer",
+          "Answers": [
+            
+          ]
+        }
+      ]
+    }
   ]
 }
